@@ -1,4 +1,4 @@
-# Construction 1024 MAP07 [1 Level, BOOM, DOOM 2]
+# The Lost Shores (MAP07) for [Constriction 1024 Community Project](https://www.doomworld.com/forum/topic/135845-soft-deadline-june-1st-constriction-1024-1024mu2-restricted-levels-3032-maps-submitted/) [1 Level, BOOM, DOOM 2]
 
 # STATUS: ✅RELEASED
 
