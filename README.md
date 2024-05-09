@@ -2,7 +2,7 @@
 
 # STATUS: ✅RELEASED
 
-### Download - [Latest Release](https://github.com/dron12261games/WAD-DOOM-PSX-Damnation-of-Eternity-EMC2024/releases/download/v1.2/PSXDAMN.v1.2.zip)
+### Download - [Latest Release](https://github.com/dron12261games/WAD-Constriction1024-MAP07/releases/download/v5/The.Lost.Shores.zip)
 
 ## Resources in use:
 - [OTEX_1.1.wad](https://www.doomworld.com/idgames/graphics/otex_1_1)
